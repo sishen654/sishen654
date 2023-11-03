@@ -53,7 +53,7 @@
     <td align="center" width="45%">
       <div><b><em><spam>Statistics</spam></em></b></div>
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
-      <img src="https://github-readme-stats.vercel.app/api?username=sishen654&show_icons=true&theme=radical&bg_color=00000000"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sishen654&show_icons=true&theme=radical"/>
     </td>
     <td align="left" width="55%">
     <!-- posts start -->
