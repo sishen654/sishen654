@@ -53,9 +53,11 @@
     <td align="center">
       <div><b><em><spam>Statistics</spam></em></b></div>
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sishen654&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
     </td>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+13
     </td>
+
   </tr>
 </table>
