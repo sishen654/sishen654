@@ -1,10 +1,8 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
-<p align="center">
-  <h1 height="200px" align="center">
-    Hi there 👋 <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">
-  </h1>
+<div align="center">
+   <h2 height="200px" align="center">👋 Hi there</h2>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
-</p>
+</div>
 
 <!--
   技术栈标签, 小标签来自: https://shields.io/
