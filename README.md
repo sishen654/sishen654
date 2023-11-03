@@ -32,15 +32,15 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+<img align="right" alt="GIF" src="./banner-bg.png" width="400"/>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
+- 🔭 I’m currently working on myself
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/1856432524239421)
+- ⛺️ I have a private site: [Personal-Web](http://121.37.230.46:5000/), you're welcome to come! ~
+- 📨 My email address is `1730821420@qq.com` Welcome to contact me 👏🏻 ~
