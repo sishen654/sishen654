@@ -50,12 +50,12 @@
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="45%">
       <div><b><em><spam>Statistics</spam></em></b></div>
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
       <img src="https://github-readme-stats.vercel.app/api?username=sishen654&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
     </td>
-    <td align="left">
+    <td align="left" width="55%">
     <!-- posts start -->
     <!-- posts end -->
     </td>
