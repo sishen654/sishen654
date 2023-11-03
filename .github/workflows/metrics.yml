@@ -19,6 +19,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: metrics-Half-year-calendar
         uses: lowlighter/metrics@latest
         with:
