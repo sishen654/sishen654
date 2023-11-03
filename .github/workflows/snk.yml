@@ -15,7 +15,7 @@ on:
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
-  build:
+  github-snk:
     runs-on: ubuntu-latest
     permissions:
       contents: write
