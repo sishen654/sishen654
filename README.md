@@ -34,8 +34,6 @@
 <br />
 <img align="right" alt="GIF" src="./banner-bg.png" width="400"/>
 
-<!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
 - 🔭 I’m currently working on myself
