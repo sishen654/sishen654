@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-<!-- 背景图 -->
+<!-- 背景 图 -->
 <br />
 
 <h2 height="200px" align="center">🎉 About Me</h2>
