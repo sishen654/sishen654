@@ -66,7 +66,7 @@
 <li>[4月前] <a href="https://juejin.cn/post/7256039179086921783">前端开发需要知道的函数设计的原则</a></li>
 <li>[4月前] <a href="https://juejin.cn/post/7253363328188612669">打包体积的分析和优化</a></li>
 <li>[4月前] <a href="https://juejin.cn/post/7252976472817451069">快来看看各个大厂响应式方案</a></li>
-<li>[8月前] <a href="https://juejin.cn/post/7204454572889833509">CSS可用的三个全局属性，你知道几个呢？</a></li>
+<li>[9月前] <a href="https://juejin.cn/post/7204454572889833509">CSS可用的三个全局属性，你知道几个呢？</a></li>
 <li>[9月前] <a href="https://juejin.cn/post/7203341999956656184">小白福利!我开发了一个快速部署库</a></li>
 </ul>
 <!-- posts end -->
