@@ -58,6 +58,7 @@
     <td align="left" width="55%">
     <!-- posts start -->
 <ul>
+<li>[21小时前] <a href="https://juejin.cn/post/7345796354956525578">通义灵码活动。必中【日历】速领！</a></li>
 <li>[3月前] <a href="https://juejin.cn/post/7311602698720297010">写 SVG 动画必看！SVG系列文章4-微信公众号编写</a></li>
 <li>[3月前] <a href="https://juejin.cn/post/7308651060155809842">写 SVG 动画必看！SVG系列文章3-动画标签</a></li>
 <li>[3月前] <a href="https://juejin.cn/post/7306736066362654754">写 SVG 动画必看！SVG系列文章2-常见标签</a></li>
@@ -66,8 +67,7 @@
 <li>[6月前] <a href="https://juejin.cn/post/7278129589518401573">Vue2.7 封装 Router@4 的 hook</a></li>
 <li>[6月前] <a href="https://juejin.cn/post/7270532002733293604">2023年最新 Github Pages 使用手册</a></li>
 <li>[7月前] <a href="https://juejin.cn/post/7262904835828711480">简单高效的npm地址源管理器</a></li>
-<li>[7月前] <a href="https://juejin.cn/post/7257048145234133053">前端需要知道的三个不常用的函数式编程范式</a></li>
-<li>[8月前] <a href="https://juejin.cn/post/7256565518584709180">四个常用函数式编程，你可能在不知不觉中已经用到...</a></li>
+<li>[8月前] <a href="https://juejin.cn/post/7257048145234133053">前端需要知道的三个不常用的函数式编程范式</a></li>
 </ul>
 <!-- posts end -->
     </td>
