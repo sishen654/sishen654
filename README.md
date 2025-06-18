@@ -58,7 +58,7 @@
     <td align="left" width="55%">
     <!-- posts start -->
 <ul>
-<li>[10月前] <a href="https://juejin.cn/post/7393192749389332490">尤雨溪同款脚手架写法，你确定不进来学习下？（4）</a></li>
+<li>[11月前] <a href="https://juejin.cn/post/7393192749389332490">尤雨溪同款脚手架写法，你确定不进来学习下？（4）</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7390447879406649355">论前端如何优雅地实现脚手架（3）</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7389278362240729125">Node 的命令交互式写法，与用户对话（2）</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7387793923526361140">大前端时代，怎能不懂自建脚手架？（1）</a></li>
